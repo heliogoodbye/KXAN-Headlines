@@ -1,5 +1,5 @@
 # KXAN Headlines
-Another early plugin (2015), **KXAN Headlines** is a WordPress plugin that allows users to display headlines from the KXAN news feed on their WordPress sites. It provides a simple and convenient way to keep visitors informed about the latest news and updates from KXAN in Austin, Texas.
+Another early plugin (2015), **KXAN Headlines** is a WordPress plugin that allows users to display headlines from the KXAN news feed on their WordPress sites. It provides a simple and convenient way to keep visitors informed about the latest news and updates from KXAN, the NBC affiliate in Austin, Texas.
 
 Key features of the plugin include:
 
